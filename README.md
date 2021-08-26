@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+# My first React Project - Todo App using React and API <img align="center" alt="Manu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## What I used to create this: 
+
+- [React Router](https://reactrouter.com/): npm install react-router-dom
+- [Library React icons](https://react-icons.github.io/react-icons/): npm install react-icons --save
+- [Online REST API for Testing and Prototyping](https://jsonplaceholder.cypress.io/)
+
+## Display
+<img src = "/public/display.png">
+
+## Functionality
+- You can click on the task and this will mark the task already done (the blue mark on the left side shows the tasks marked as done).
+- You can delete a task by clicking on the x icon.
+- If you click on the icon i it will give you more information about the task.
+- In the part of "more information" about the task you will have a button to return.
+- You can add more tasks by writting your task and clicking on "agregar".
 
 ## Available Scripts
 
@@ -39,32 +55,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
